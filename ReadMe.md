@@ -156,7 +156,7 @@ We are primarily considering JavaScript (sorry, not TypeScript) as the base lang
 
 ## Installation & Running
 
-**System Requirements**
+**System Requirement**
 
 For Server Side Setup / Development Environment:
 
